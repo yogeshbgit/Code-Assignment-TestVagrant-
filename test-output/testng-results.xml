@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-13T13:15:25 IST" name="Suite" finished-at="2022-11-13T13:16:23 IST" duration-ms="57532">
+    <groups>
+    </groups>
+    <test started-at="2022-11-13T13:15:25 IST" name="Test" finished-at="2022-11-13T13:16:23 IST" duration-ms="57532">
+      <class name="Coding_Assignment_TestVagrant.IMDB_Test">
+        <test-method signature="ValidateImdb()[pri:1, instance:Coding_Assignment_TestVagrant.IMDB_Test@a3d9978]" started-at="2022-11-13T13:16:04 IST" name="ValidateImdb" finished-at="2022-11-13T13:16:22 IST" duration-ms="18032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateImdb -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Coding_Assignment_TestVagrant.IMDB_Test@a3d9978]" started-at="2022-11-13T13:16:22 IST" name="TearDown" finished-at="2022-11-13T13:16:22 IST" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Coding_Assignment_TestVagrant.IMDB_Test -->
+      <class name="Coding_Assignment_TestVagrant.Wiki_Test">
+        <test-method signature="Validatewiki()[pri:1, instance:Coding_Assignment_TestVagrant.Wiki_Test@5f9be66c]" started-at="2022-11-13T13:15:25 IST" name="Validatewiki" finished-at="2022-11-13T13:16:04 IST" duration-ms="38387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validatewiki -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Coding_Assignment_TestVagrant.Wiki_Test@5f9be66c]" started-at="2022-11-13T13:16:22 IST" name="TearDown" finished-at="2022-11-13T13:16:23 IST" duration-ms="607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Coding_Assignment_TestVagrant.Wiki_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
